@@ -1,0 +1,22 @@
+
+
+div
+{
+
+    width:200px;
+    height:200px;
+    display:flex;
+    background-color: gold;
+    color:rgb(31, 33, 34);
+    transition: background-color 2s 3s, width 2s  0.5s ;
+
+
+}
+
+div:hover{
+    width:400px;
+    justify-content: center;
+    background-color: rgb(13, 87, 152);
+
+
+}
